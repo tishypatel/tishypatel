@@ -1,50 +1,77 @@
-# Hi there, I'm Tishy Patel 👋
+# 👋 Hi, I'm Tishy Patel
 
-### Full-Stack Developer | Aspiring AI & Machine Learning Engineer
-
-I am a seasoned Full-Stack Developer with a background in building robust web applications using the **MEAN/MERN stack** and **legacy PHP environments**. Currently, I'm channeling my experience into the world of **Artificial Intelligence**, mastering Python and building modern interfaces with **Next.js**.
+I'm a **Software Engineer / Full‑Stack Developer** who loves building real‑world products at the intersection of **backend systems, voice AI, and modern web apps**. I enjoy working close to infrastructure *and* product , making systems fast, reliable, and actually usable.
 
 ---
 
-### 🚀 What I’m Working On
-- 🛠️ **Portfolio 2.0:** Building a high-performance portfolio using **Next.js** to showcase my latest projects.
-- 🐍 **AI/ML Roadmap:** Deep diving into Python for data science and machine learning.
-- ☁️ **Cloud Integration:** Leveraging experience with **AWS** (Secrets Manager, SDKs) to build secure, scalable apps.
+## 🚀 What I’m Working On
 
-### 🛠️ Tech Stack & Tools
-
-**Web Development**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Data & AI (Current Focus)**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Tools & Others**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+* 🤖 **Voice AI Agents** (Twilio, WebSockets, Deepgram, ElevenLabs, OpenAI)
+* 📞 Real‑time call handling, IVR navigation, smart endpointing
+* 🧠 Context‑aware AI systems for businesses
+* 📊 Analytics dashboards & data‑driven UIs
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
+## 🧰 Tech Stack
+
+### Backend
+
+* **Node.js**, **NestJS**
+* WebSockets, REST APIs
+* Twilio (Voice), LiveKit
+* OpenAI APIs
+
+### Frontend
+
+* **React / Next.js**
+* Tailwind CSS
+* Angular (dashboards)
+* ECharts
+
+### AI / Media
+
+* Deepgram (Speech‑to‑Text)
+* ElevenLabs (Text‑to‑Speech)
+* LLM orchestration & prompt design
+
+### DevOps & Tools
+
+* Docker
+* Linux (Ubuntu)
+* Git & GitHub
+* CI/CD basics
 
 ---
 
-### 📷 Beyond the Code
-When I'm not debugging or training models, you'll find me:
-- **Photography:** Capturing street life through my Nikon D3300 or my iPhone.
-- **Fitness:** Focused on bodyweight strength training and home-based fitness.
-- **Mental Math:** I have a weird love for finding shortcuts in complex calculations.
+## 🧠 Things I Care About
+
+* Low‑latency, real‑time systems
+* Clean architecture & readable code
+* Turning complex flows into simple UX
+* Learning *why* things work, not just *how*
 
 ---
 
-### 📫 Connect with me:
-- 💼 [LinkedIn](https://in.linkedin.com/in/tishy-patel)
-- 📸 [Instagram](@tishy.heic) (Check out my street photography!)
+## 📌 Featured Projects
+
+* **Voice AI Call Agent**
+  End‑to‑end system that answers phone calls, understands speech, responds with AI‑generated voice, and manages concurrent calls with smart turn detection.
+
+* **IVR Navigation Agent**
+  AI agent that treats IVR menus like a decision puzzle to reach human representatives efficiently.
+
+* **Analytics Dashboard**
+  Interactive dashboard with charts, summaries, and date‑driven insights.
+
+---
+
+## 📫 Let’s Connect
+
+* GitHub: [https://github.com/your‑username](https://github.com/your-username)
+* LinkedIn: *(add your link)*
+* Portfolio: *(add your link)*
+
+---
+
+⭐️ *Always building, always learning.*
