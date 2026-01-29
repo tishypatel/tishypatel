@@ -17,14 +17,15 @@ I'm a **Software Engineer / Full‑Stack Developer** who loves building real‑w
 
 ### Backend
 
-* **Node.js**, **NestJS**
+* Node.js, NestJS
+* Express JS
 * WebSockets, REST APIs
 * Twilio (Voice), LiveKit
 * OpenAI APIs
 
 ### Frontend
 
-* **React / Next.js**
+* React / Next.js
 * Tailwind CSS
 * Angular (dashboards)
 * ECharts
@@ -68,7 +69,7 @@ I'm a **Software Engineer / Full‑Stack Developer** who loves building real‑w
 
 ## 📫 Let’s Connect
 
-* GitHub: [https://github.com/your‑username](https://github.com/your-username)
+* GitHub: [https://github.com/your‑username](https://github.com/tishypatel)
 * LinkedIn: *(add your link)*
 * Portfolio: *(add your link)*
 
