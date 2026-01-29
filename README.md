@@ -69,8 +69,7 @@ I'm a **Software Engineer / Full‑Stack Developer** who loves building real‑w
 
 ## 📫 Let’s Connect
 
-* LinkedIn: *(add your link)*
-* Portfolio: *(add your link)*
+* LinkedIn: *(https://in.linkedin.com/in/tishy-patel)*
 
 ---
 
