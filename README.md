@@ -69,7 +69,6 @@ I'm a **Software Engineer / Full‑Stack Developer** who loves building real‑w
 
 ## 📫 Let’s Connect
 
-* GitHub:(https://github.com/tishypatel)
 * LinkedIn: *(add your link)*
 * Portfolio: *(add your link)*
 
